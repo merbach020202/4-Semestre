@@ -1,10 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\Calculos",
-    "\\Calculos.Test",
-    "\\ConversaoDeTemperatura.Test"
+    ""
   ],
-  "SelectedNode": "\\Calculos.Test\\CalculoUnitTest.cs",
+  "SelectedNode": "\\Calculos.sln",
   "PreviewInSolutionExplorer": false
 }

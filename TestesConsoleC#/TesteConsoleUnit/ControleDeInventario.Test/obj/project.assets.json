@@ -5534,19 +5534,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\32784630803\\.nuget\\packages\\": {}
+    "C:\\Users\\44850641822\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\ControleDeInventario.Test\\ControleDeInventario.Test.csproj",
+      "projectUniqueName": "C:\\Users\\44850641822\\Desktop\\4-Semestre\\TestesConsoleC#\\TesteConsoleUnit\\ControleDeInventario.Test\\ControleDeInventario.Test.csproj",
       "projectName": "ControleDeInventario.Test",
-      "projectPath": "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\ControleDeInventario.Test\\ControleDeInventario.Test.csproj",
-      "packagesPath": "C:\\Users\\32784630803\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\ControleDeInventario.Test\\obj\\",
+      "projectPath": "C:\\Users\\44850641822\\Desktop\\4-Semestre\\TestesConsoleC#\\TesteConsoleUnit\\ControleDeInventario.Test\\ControleDeInventario.Test.csproj",
+      "packagesPath": "C:\\Users\\44850641822\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\44850641822\\Desktop\\4-Semestre\\TestesConsoleC#\\TesteConsoleUnit\\ControleDeInventario.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\32784630803\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\44850641822\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5560,8 +5560,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\ControleDeInventario\\ControleDeInventario.csproj": {
-              "projectPath": "C:\\Users\\32784630803\\Desktop\\TestConsole_XUnit\\ControleDeInventario\\ControleDeInventario.csproj"
+            "C:\\Users\\44850641822\\Desktop\\4-Semestre\\TestesConsoleC#\\TesteConsoleUnit\\ControleDeInventario\\ControleDeInventario.csproj": {
+              "projectPath": "C:\\Users\\44850641822\\Desktop\\4-Semestre\\TestesConsoleC#\\TesteConsoleUnit\\ControleDeInventario\\ControleDeInventario.csproj"
             }
           }
         }

@@ -1,0 +1,14 @@
+C:\Users\32784630803\Desktop\testConsoleXUnit\ValidacaoDeEmail\bin\Debug\net8.0\ValidacaoDeEmail.exe
+C:\Users\32784630803\Desktop\testConsoleXUnit\ValidacaoDeEmail\bin\Debug\net8.0\ValidacaoDeEmail.deps.json
+C:\Users\32784630803\Desktop\testConsoleXUnit\ValidacaoDeEmail\bin\Debug\net8.0\ValidacaoDeEmail.runtimeconfig.json
+C:\Users\32784630803\Desktop\testConsoleXUnit\ValidacaoDeEmail\bin\Debug\net8.0\ValidacaoDeEmail.dll
+C:\Users\32784630803\Desktop\testConsoleXUnit\ValidacaoDeEmail\bin\Debug\net8.0\ValidacaoDeEmail.pdb
+C:\Users\32784630803\Desktop\testConsoleXUnit\ValidacaoDeEmail\obj\Debug\net8.0\ValidacaoDeEmail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\32784630803\Desktop\testConsoleXUnit\ValidacaoDeEmail\obj\Debug\net8.0\ValidacaoDeEmail.AssemblyInfoInputs.cache
+C:\Users\32784630803\Desktop\testConsoleXUnit\ValidacaoDeEmail\obj\Debug\net8.0\ValidacaoDeEmail.AssemblyInfo.cs
+C:\Users\32784630803\Desktop\testConsoleXUnit\ValidacaoDeEmail\obj\Debug\net8.0\ValidacaoDeEmail.csproj.CoreCompileInputs.cache
+C:\Users\32784630803\Desktop\testConsoleXUnit\ValidacaoDeEmail\obj\Debug\net8.0\ValidacaoDeEmail.dll
+C:\Users\32784630803\Desktop\testConsoleXUnit\ValidacaoDeEmail\obj\Debug\net8.0\refint\ValidacaoDeEmail.dll
+C:\Users\32784630803\Desktop\testConsoleXUnit\ValidacaoDeEmail\obj\Debug\net8.0\ValidacaoDeEmail.pdb
+C:\Users\32784630803\Desktop\testConsoleXUnit\ValidacaoDeEmail\obj\Debug\net8.0\ValidacaoDeEmail.genruntimeconfig.cache
+C:\Users\32784630803\Desktop\testConsoleXUnit\ValidacaoDeEmail\obj\Debug\net8.0\ref\ValidacaoDeEmail.dll

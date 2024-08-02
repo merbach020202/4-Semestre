@@ -1,0 +1,14 @@
+C:\Users\32784630803\Desktop\testConsoleXUnit\GerenciamentoDeLivros\bin\Debug\net8.0\GerenciamentoDeLivros.exe
+C:\Users\32784630803\Desktop\testConsoleXUnit\GerenciamentoDeLivros\bin\Debug\net8.0\GerenciamentoDeLivros.deps.json
+C:\Users\32784630803\Desktop\testConsoleXUnit\GerenciamentoDeLivros\bin\Debug\net8.0\GerenciamentoDeLivros.runtimeconfig.json
+C:\Users\32784630803\Desktop\testConsoleXUnit\GerenciamentoDeLivros\bin\Debug\net8.0\GerenciamentoDeLivros.dll
+C:\Users\32784630803\Desktop\testConsoleXUnit\GerenciamentoDeLivros\bin\Debug\net8.0\GerenciamentoDeLivros.pdb
+C:\Users\32784630803\Desktop\testConsoleXUnit\GerenciamentoDeLivros\obj\Debug\net8.0\GerenciamentoDeLivros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\32784630803\Desktop\testConsoleXUnit\GerenciamentoDeLivros\obj\Debug\net8.0\GerenciamentoDeLivros.AssemblyInfoInputs.cache
+C:\Users\32784630803\Desktop\testConsoleXUnit\GerenciamentoDeLivros\obj\Debug\net8.0\GerenciamentoDeLivros.AssemblyInfo.cs
+C:\Users\32784630803\Desktop\testConsoleXUnit\GerenciamentoDeLivros\obj\Debug\net8.0\GerenciamentoDeLivros.csproj.CoreCompileInputs.cache
+C:\Users\32784630803\Desktop\testConsoleXUnit\GerenciamentoDeLivros\obj\Debug\net8.0\GerenciamentoDeLivros.dll
+C:\Users\32784630803\Desktop\testConsoleXUnit\GerenciamentoDeLivros\obj\Debug\net8.0\refint\GerenciamentoDeLivros.dll
+C:\Users\32784630803\Desktop\testConsoleXUnit\GerenciamentoDeLivros\obj\Debug\net8.0\GerenciamentoDeLivros.pdb
+C:\Users\32784630803\Desktop\testConsoleXUnit\GerenciamentoDeLivros\obj\Debug\net8.0\GerenciamentoDeLivros.genruntimeconfig.cache
+C:\Users\32784630803\Desktop\testConsoleXUnit\GerenciamentoDeLivros\obj\Debug\net8.0\ref\GerenciamentoDeLivros.dll

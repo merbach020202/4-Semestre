@@ -1,0 +1,5 @@
+C:\Users\44850641822\Desktop\4-Semestre\TestesConsoleC#\BankTeste\Bank.exe
+C:\Users\44850641822\Desktop\4-Semestre\TestesConsoleC#\BankTeste\Bank.dll
+C:\Users\44850641822\Desktop\4-Semestre\TestesConsoleC#\BankTeste\Bank.deps.json
+C:\Users\44850641822\Desktop\4-Semestre\TestesConsoleC#\BankTeste\Bank.runtimeconfig.json
+C:\Users\44850641822\Desktop\4-Semestre\TestesConsoleC#\BankTeste\Bank.pdb

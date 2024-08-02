@@ -1,0 +1,15 @@
+C:\Users\44850641822\Desktop\4-Semestre\TestesConsoleC#\Bank(ProjetoTeste)\bin\Debug\net8.0\BankAccount.exe
+C:\Users\44850641822\Desktop\4-Semestre\TestesConsoleC#\Bank(ProjetoTeste)\bin\Debug\net8.0\BankAccount.deps.json
+C:\Users\44850641822\Desktop\4-Semestre\TestesConsoleC#\Bank(ProjetoTeste)\bin\Debug\net8.0\BankAccount.runtimeconfig.json
+C:\Users\44850641822\Desktop\4-Semestre\TestesConsoleC#\Bank(ProjetoTeste)\bin\Debug\net8.0\BankAccount.dll
+C:\Users\44850641822\Desktop\4-Semestre\TestesConsoleC#\Bank(ProjetoTeste)\bin\Debug\net8.0\BankAccount.pdb
+C:\Users\44850641822\Desktop\4-Semestre\TestesConsoleC#\Bank(ProjetoTeste)\obj\Debug\net8.0\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44850641822\Desktop\4-Semestre\TestesConsoleC#\Bank(ProjetoTeste)\obj\Debug\net8.0\BankAccount.AssemblyInfoInputs.cache
+C:\Users\44850641822\Desktop\4-Semestre\TestesConsoleC#\Bank(ProjetoTeste)\obj\Debug\net8.0\BankAccount.AssemblyInfo.cs
+C:\Users\44850641822\Desktop\4-Semestre\TestesConsoleC#\Bank(ProjetoTeste)\obj\Debug\net8.0\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\44850641822\Desktop\4-Semestre\TestesConsoleC#\Bank(ProjetoTeste)\obj\Debug\net8.0\BankAccount.sourcelink.json
+C:\Users\44850641822\Desktop\4-Semestre\TestesConsoleC#\Bank(ProjetoTeste)\obj\Debug\net8.0\BankAccount.dll
+C:\Users\44850641822\Desktop\4-Semestre\TestesConsoleC#\Bank(ProjetoTeste)\obj\Debug\net8.0\refint\BankAccount.dll
+C:\Users\44850641822\Desktop\4-Semestre\TestesConsoleC#\Bank(ProjetoTeste)\obj\Debug\net8.0\BankAccount.pdb
+C:\Users\44850641822\Desktop\4-Semestre\TestesConsoleC#\Bank(ProjetoTeste)\obj\Debug\net8.0\BankAccount.genruntimeconfig.cache
+C:\Users\44850641822\Desktop\4-Semestre\TestesConsoleC#\Bank(ProjetoTeste)\obj\Debug\net8.0\ref\BankAccount.dll

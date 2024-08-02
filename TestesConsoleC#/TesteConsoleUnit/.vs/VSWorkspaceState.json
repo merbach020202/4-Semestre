@@ -1,10 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ControleDeInventario.Test",
-    "\\ConversaoDeTemperatura",
+    "\\Calculos",
+    "\\Calculos.Test",
     "\\ConversaoDeTemperatura.Test"
   ],
-  "SelectedNode": "\\ConversaoDeTemperatura\\ConversorTemperatura.cs",
+  "SelectedNode": "\\Calculos.Test\\CalculoUnitTest.cs",
   "PreviewInSolutionExplorer": false
 }

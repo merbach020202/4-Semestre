@@ -8,6 +8,7 @@ namespace Calculos
 {
     public static class Calculo
     {
+        //Criar métodos de operações
         public static double Somar(double x, double y)
         { 
             return (x + y);

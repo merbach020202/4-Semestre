@@ -44,30 +44,24 @@ namespace Calculos.Test
         [Fact]
         public void TestarMetodoMultiplicar()
         {
-            // Arrange
             var x1 = 4;
             var x2 = 2.5;
             var valorEsperado = 10;
 
-            // Act
             var resultado = Calculo.Multiplicar(x1, x2);
 
-            // Assert
             Assert.Equal(valorEsperado, resultado);
         }
 
         [Fact]
         public void TestarMetodoDividir()
         {
-            // Arrange
             var x1 = 10;
             var x2 = 2;
             var valorEsperado = 5;
 
-            // Act
             var resultado = Calculo.Dividir(x1, x2);
 
-            // Assert
             Assert.Equal(valorEsperado, resultado);
         }
 

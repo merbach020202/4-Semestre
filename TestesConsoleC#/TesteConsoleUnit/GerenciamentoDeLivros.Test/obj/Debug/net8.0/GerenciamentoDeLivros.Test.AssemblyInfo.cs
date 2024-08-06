@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GerenciamentoDeLivros.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa52c9a146a12fcaeea1f8ecf0d37eebdef1fd02")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66cbff310f24f5339ce698e462de8f19776431d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("GerenciamentoDeLivros.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GerenciamentoDeLivros.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

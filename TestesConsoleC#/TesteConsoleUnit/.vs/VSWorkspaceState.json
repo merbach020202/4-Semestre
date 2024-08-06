@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Calculos.Test",
+    "\\ControleDeInventario"
   ],
-  "SelectedNode": "\\Calculos.sln",
+  "SelectedNode": "\\Calculos.Test\\CalculoUnitTest.cs",
   "PreviewInSolutionExplorer": false
 }

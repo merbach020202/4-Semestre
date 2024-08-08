@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("testeApixUnit.Teste1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03a2d84cf782d3202789ab6f96afcac997550b95")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+511eda92ef9678d96238f634fc756a3fa2c1c587")]
 [assembly: System.Reflection.AssemblyProductAttribute("testeApixUnit.Teste1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("testeApixUnit.Teste1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

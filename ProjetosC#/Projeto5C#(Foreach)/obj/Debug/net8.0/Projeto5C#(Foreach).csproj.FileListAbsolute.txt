@@ -1,0 +1,14 @@
+C:\Users\44850641822\Desktop\ProjetosC#\Projeto5C#(Foreach)\bin\Debug\net8.0\Projeto5C#(Foreach).exe
+C:\Users\44850641822\Desktop\ProjetosC#\Projeto5C#(Foreach)\bin\Debug\net8.0\Projeto5C#(Foreach).deps.json
+C:\Users\44850641822\Desktop\ProjetosC#\Projeto5C#(Foreach)\bin\Debug\net8.0\Projeto5C#(Foreach).runtimeconfig.json
+C:\Users\44850641822\Desktop\ProjetosC#\Projeto5C#(Foreach)\bin\Debug\net8.0\Projeto5C#(Foreach).dll
+C:\Users\44850641822\Desktop\ProjetosC#\Projeto5C#(Foreach)\bin\Debug\net8.0\Projeto5C#(Foreach).pdb
+C:\Users\44850641822\Desktop\ProjetosC#\Projeto5C#(Foreach)\obj\Debug\net8.0\Projeto5C#(Foreach).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44850641822\Desktop\ProjetosC#\Projeto5C#(Foreach)\obj\Debug\net8.0\Projeto5C#(Foreach).AssemblyInfoInputs.cache
+C:\Users\44850641822\Desktop\ProjetosC#\Projeto5C#(Foreach)\obj\Debug\net8.0\Projeto5C#(Foreach).AssemblyInfo.cs
+C:\Users\44850641822\Desktop\ProjetosC#\Projeto5C#(Foreach)\obj\Debug\net8.0\Projeto5C#(Foreach).csproj.CoreCompileInputs.cache
+C:\Users\44850641822\Desktop\ProjetosC#\Projeto5C#(Foreach)\obj\Debug\net8.0\Projeto5C#(Foreach).dll
+C:\Users\44850641822\Desktop\ProjetosC#\Projeto5C#(Foreach)\obj\Debug\net8.0\refint\Projeto5C#(Foreach).dll
+C:\Users\44850641822\Desktop\ProjetosC#\Projeto5C#(Foreach)\obj\Debug\net8.0\Projeto5C#(Foreach).pdb
+C:\Users\44850641822\Desktop\ProjetosC#\Projeto5C#(Foreach)\obj\Debug\net8.0\Projeto5C#(Foreach).genruntimeconfig.cache
+C:\Users\44850641822\Desktop\ProjetosC#\Projeto5C#(Foreach)\obj\Debug\net8.0\ref\Projeto5C#(Foreach).dll

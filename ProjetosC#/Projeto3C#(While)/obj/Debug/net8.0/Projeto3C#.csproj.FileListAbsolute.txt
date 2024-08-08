@@ -1,0 +1,14 @@
+C:\Users\44850641822\Desktop\ProjetosC#\Projeto3C#\bin\Debug\net8.0\Projeto3C#.exe
+C:\Users\44850641822\Desktop\ProjetosC#\Projeto3C#\bin\Debug\net8.0\Projeto3C#.deps.json
+C:\Users\44850641822\Desktop\ProjetosC#\Projeto3C#\bin\Debug\net8.0\Projeto3C#.runtimeconfig.json
+C:\Users\44850641822\Desktop\ProjetosC#\Projeto3C#\bin\Debug\net8.0\Projeto3C#.dll
+C:\Users\44850641822\Desktop\ProjetosC#\Projeto3C#\bin\Debug\net8.0\Projeto3C#.pdb
+C:\Users\44850641822\Desktop\ProjetosC#\Projeto3C#\obj\Debug\net8.0\Projeto3C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44850641822\Desktop\ProjetosC#\Projeto3C#\obj\Debug\net8.0\Projeto3C#.AssemblyInfoInputs.cache
+C:\Users\44850641822\Desktop\ProjetosC#\Projeto3C#\obj\Debug\net8.0\Projeto3C#.AssemblyInfo.cs
+C:\Users\44850641822\Desktop\ProjetosC#\Projeto3C#\obj\Debug\net8.0\Projeto3C#.csproj.CoreCompileInputs.cache
+C:\Users\44850641822\Desktop\ProjetosC#\Projeto3C#\obj\Debug\net8.0\Projeto3C#.dll
+C:\Users\44850641822\Desktop\ProjetosC#\Projeto3C#\obj\Debug\net8.0\refint\Projeto3C#.dll
+C:\Users\44850641822\Desktop\ProjetosC#\Projeto3C#\obj\Debug\net8.0\Projeto3C#.pdb
+C:\Users\44850641822\Desktop\ProjetosC#\Projeto3C#\obj\Debug\net8.0\Projeto3C#.genruntimeconfig.cache
+C:\Users\44850641822\Desktop\ProjetosC#\Projeto3C#\obj\Debug\net8.0\ref\Projeto3C#.dll

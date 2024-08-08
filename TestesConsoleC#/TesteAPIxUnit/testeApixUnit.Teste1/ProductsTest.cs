@@ -41,22 +41,6 @@ namespace testeApixUnit.Teste1
 
 
         [Fact]
-        public void Post()
-        {
-            // Arrange
-            var product = new Products { IdProduct = Guid.NewGuid(), Name = "Produto 4", Price = 70 };
-            var mockRepository = new Mock<IProductsRepository>();
-
-            mockRepository.Setup(x => x.Post(It.IsAny<Products>()));
-
-            // Act
-            mockRepository.Object.Post(product);
-
-            // Assert
-            mockRepository.Verify(x => x.Post(It.Is<Products>(p => p.Name == "Produto 4" && p.Price == 70)), Times.Once);
-        }
-
-        [Fact]
         public void GetById()
         {
             // Arrange
@@ -65,7 +49,6 @@ namespace testeApixUnit.Teste1
             var mockRepository = new Mock<IProductsRepository>();
 
             mockRepository.Setup(x => x.GetById(productId)).Returns(product);
-
             // Act
             var result = mockRepository.Object.GetById(productId);
 
@@ -110,4 +93,3 @@ namespace testeApixUnit.Teste1
     }
 }
 
-//

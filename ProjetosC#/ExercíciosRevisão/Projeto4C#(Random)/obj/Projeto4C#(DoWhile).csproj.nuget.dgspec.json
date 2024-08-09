@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\44850641822\\Desktop\\ProjetosC#\\Projeto4C#(Foreach)\\Projeto4C#(DoWhile).csproj": {}
+    "C:\\Users\\44850641822\\Desktop\\4-Semestre\\ProjetosC#\\ExercíciosRevisão\\Projeto4C#(Random)\\Projeto4C#(DoWhile).csproj": {}
   },
   "projects": {
-    "C:\\Users\\44850641822\\Desktop\\ProjetosC#\\Projeto4C#(Foreach)\\Projeto4C#(DoWhile).csproj": {
+    "C:\\Users\\44850641822\\Desktop\\4-Semestre\\ProjetosC#\\ExercíciosRevisão\\Projeto4C#(Random)\\Projeto4C#(DoWhile).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\44850641822\\Desktop\\ProjetosC#\\Projeto4C#(Foreach)\\Projeto4C#(DoWhile).csproj",
+        "projectUniqueName": "C:\\Users\\44850641822\\Desktop\\4-Semestre\\ProjetosC#\\ExercíciosRevisão\\Projeto4C#(Random)\\Projeto4C#(DoWhile).csproj",
         "projectName": "Projeto4C#(DoWhile)",
-        "projectPath": "C:\\Users\\44850641822\\Desktop\\ProjetosC#\\Projeto4C#(Foreach)\\Projeto4C#(DoWhile).csproj",
+        "projectPath": "C:\\Users\\44850641822\\Desktop\\4-Semestre\\ProjetosC#\\ExercíciosRevisão\\Projeto4C#(Random)\\Projeto4C#(DoWhile).csproj",
         "packagesPath": "C:\\Users\\44850641822\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\44850641822\\Desktop\\ProjetosC#\\Projeto4C#(Foreach)\\obj\\",
+        "outputPath": "C:\\Users\\44850641822\\Desktop\\4-Semestre\\ProjetosC#\\ExercíciosRevisão\\Projeto4C#(Random)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\44850641822\\AppData\\Roaming\\NuGet\\NuGet.Config",

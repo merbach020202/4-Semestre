@@ -1,0 +1,284 @@
+@font-face {
+  font-family: 'LatoBoldItalic';
+  src: url(assets/Fonts/Lato-BoldItalic.ttf);
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: url(assets/Fonts/Lato-Regular.ttf);
+}
+
+@keyframes animacao {
+  from {background: linear-gradient(#00d4ff, #090979);}
+  to {background: linear-gradient(#1E52B4,#002777);}
+}
+
+.p {
+  font-family: 'Lato';
+}
+
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+
+  background-color: #f4f4f4;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+/* AQUIIIIIIIIIIII */
+
+header {
+  background-color: #002777;
+  color: #fff;
+
+  padding: 10px 0;
+  text-align: center;
+
+  animation-name: animacao;
+  animation-duration: 4s;
+  animation-delay: 1s;
+}
+
+header h1 {
+  margin: 0;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 10px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+nav ul li a.btn {
+  background-color: #28a745;
+
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+/* Estilo da seção hero */ 
+/* AQUI TAMBÉMMMMMM */
+.hero {
+  background-color: #0056b3;
+  color: #fff;
+
+  padding: 50px 0;
+  position: relative;
+
+  animation-name: animacao;
+  animation-duration: 4s;
+  animation-delay: 1x;
+
+}
+
+.hero .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.hero-text {
+  max-width: 60%;
+}
+
+.hero-image {
+  max-width: 35%;
+}
+
+.hero-image img {
+  width: 100%;
+  height: auto;
+}
+
+/* Responsividade para telas menores */
+@media (max-width: 768px) {
+  .hero .container {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .hero-text,
+  .hero-image {
+    max-width: 100%;
+  }
+
+  .hero-image {
+    margin-top: 20px;
+  }
+}
+
+
+.search-box input[type="text"],
+.search-box input[type="date"] {
+  padding: 10px;
+  margin: 5px;
+
+  border-radius: 5px;
+  border: none;
+
+  width: 200px;
+}
+
+.search-box button {
+  padding: 10px 20px;
+
+  border-radius: 5px;
+  border: none;
+
+  background-color: #28a745;
+  color: #fff;
+
+  cursor: pointer;
+}
+
+/* Estilo da seção locations */
+.locations {
+  background-color: #fff;
+
+  padding: 40px 0;
+}
+
+/* Estilo dos cartões */
+.location-card {
+  background-color: #fff;
+
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+
+  overflow: hidden;
+}
+
+.location-card img {
+  width: 100%;
+  height: auto;
+
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
+
+.location-card .unique img {
+  height: 10%;
+}
+
+.location-card h3 {
+  margin-bottom: 10px;
+  
+  font-size: 1.5rem;
+  color: #333;
+}
+
+.location-card h4 {
+  margin-left: 90%;
+  margin-bottom: 20px;
+  margin-top: -7%;
+  
+  font-family: 'LatoBoldItalic';
+  font-size: 1.5rem;
+
+  color: #FFDF00;
+}
+
+.location-card p {
+  font-size: 1rem;
+
+  text-align: start;
+  color: #666;
+}
+
+/* Grid para dispor os cartões */
+.locations .container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  /* duas colunas */
+  gap: 20px;
+  /* espaçamento entre os itens */
+}
+
+
+/* Responsividade para telas menores */
+@media (max-width: 768px) {
+  .locations .container {
+    grid-template-columns: 1fr;
+    /* em telas menores, as colunas ficam uma embaixo da outra */
+  }
+}
+
+.promo {
+  background-color: white;
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.1);
+  
+  padding: 40px 0;
+  text-align: center;
+}
+
+.promo p {
+  font-family: 'Lato';
+
+  margin-top: -30px;
+  margin-bottom: 5vh;
+}
+
+.promo .amarela {
+  width: 100vw;
+  height: 30vh;
+
+  background-color: #FFDF00;
+
+  margin-top: 5vh;
+  margin-bottom: -11vw;
+}
+
+.promo .verde {
+  width: 100%;
+  height: 32vh;
+
+  background-color: #28a745;
+
+  margin-top: -35vh;
+  margin-bottom: -6vh;
+}
+
+.promo h2 {
+  /* color: #0056b3; */
+  font-size: 22px;
+  font-family: 'Lato';
+
+  margin-top: -4vh;
+  margin-bottom: 18vh;
+}
+
+.promo span {
+  color: #FFDF00;
+}
+
+.promo img {
+  width: 38%;
+  height: 20%;
+}
+
+footer {
+  background-color: #0056b3;
+  color: #fff;
+
+  text-align: center;
+  padding: 20px 0;
+
+  font-family: 'Lato';
+}
+

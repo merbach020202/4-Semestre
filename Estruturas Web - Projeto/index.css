@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    height: 50px;
+    width: 100%;
+
+    background: linear-gradient(#1E52B4, #002777);
+}
+
+header .imgHeader {
+    display: flex;
+    
+    height: 22.9px;
+    width: 155.58px;
+
+    align-items: center;
+    justify-content: center;
+}

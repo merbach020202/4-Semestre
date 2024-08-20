@@ -19,7 +19,7 @@
 
 
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'Lato';
   margin: 0;
   padding: 0;
 
@@ -272,7 +272,7 @@ nav ul li a.btn {
   background-color: #28a745;
 
   margin-top: -35vh;
-  margin-bottom: -6vh;
+  margin-bottom: -7vh;
 }
 
 .promo h2 {

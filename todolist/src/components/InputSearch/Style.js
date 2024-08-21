@@ -8,8 +8,11 @@ export const InputSearch = styled.input`
     border-radius: 15px;
     background-color: transparent;
 
-    position: static;
+    position: absolute;
     padding: 0px 0px 0px 10px;
+
+    left: 450px;
+    top: 245px;
 
     &::placeholder {
     color: ${props => props.color || '#FCFCFC'};

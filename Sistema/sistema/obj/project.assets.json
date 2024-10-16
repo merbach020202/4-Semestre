@@ -4039,19 +4039,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\32784630803\\.nuget\\packages\\": {}
+    "C:\\Users\\44850641822\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\32784630803\\Desktop\\atividade_sistema\\sistema\\sistema.csproj",
+      "projectUniqueName": "C:\\Users\\44850641822\\Desktop\\4-Semestre\\Sistema\\sistema\\sistema.csproj",
       "projectName": "sistema",
-      "projectPath": "C:\\Users\\32784630803\\Desktop\\atividade_sistema\\sistema\\sistema.csproj",
-      "packagesPath": "C:\\Users\\32784630803\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\32784630803\\Desktop\\atividade_sistema\\sistema\\obj\\",
+      "projectPath": "C:\\Users\\44850641822\\Desktop\\4-Semestre\\Sistema\\sistema\\sistema.csproj",
+      "packagesPath": "C:\\Users\\44850641822\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\44850641822\\Desktop\\4-Semestre\\Sistema\\sistema\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\32784630803\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\44850641822\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

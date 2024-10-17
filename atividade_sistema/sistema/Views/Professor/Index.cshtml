@@ -1,0 +1,78 @@
+﻿@{
+    ViewData["Title"] = "Principal";
+}
+
+@if(ViewBag.NomeProfessor == null)
+{
+    <a asp-controller="Login">Login</a>
+}
+else
+{
+
+
+   
+    <button type="button" data-bs-toggle="modal" data-bs-target="#cadastrarTurma" class="btn text-primary w-100 d-flex justify-content-end fw-bold mt-4">Cadastrar Turma</button>
+
+
+    <h4 class="mt-3">Sua Lista de Turmas</h4>
+
+    <table class="table">
+        <thead>
+            <trc class="w-100">
+                <th scope="col">Número</th>
+                <th scope="col">Nome</th>
+                <th scope="col">Ação</th>
+            </trc>
+        </thead>
+
+        <tbody>
+            @foreach (var turma in Model)
+            {
+                <tr>
+                    <td class="px-5">@turma.TurmaId</td>
+                    <td>@turma.Nome</td>
+                    <td class="d-flex ">
+                        <form asp-controller="Professor" asp-action="ExcluirTurma" method="post" onsubmit="return confirm('Você tem certeza que deseja excluir esta turma?')">
+                            <input type="hidden" name="turmaId" value="@turma.TurmaId" />
+                            <button type="submit" class="text-danger fst-italic fw-bolder btn btn-light px-1 py-0 text-decoration-underline ">Excluir</button>
+                        </form>
+
+                        <form asp-controller="Atividade" asp-action="Index" asp-route-turmaId="@turma.TurmaId">
+                            <input type="hidden" name="turmaId" value="@turma.TurmaId" />
+                            <button type="submit" class="text-success fst-italic fw-bolder btn btn-light px-2 py-0 text-decoration-underline">Visualizar</button>
+                        </form>
+
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    @if (TempData["Mensagem"] != null)
+    {
+        <p style="color:red">@TempData["Mensagem"]</p>
+    }
+
+    <!-- Modal -->
+    <div class="modal fade" id="cadastrarTurma" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="cadastrarTurma" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="modal-title fs-5" id="cadastrarTurmaLabel">Cadastrar Turma</h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <form asp-action="CadastrarTurma" asp-controller="Professor">
+                    <div class="modal-body">
+                        <label class="form-label">Nome da Turma</label>
+                        <input type="text" name="nomeTurma" class="form-control" required />
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
+                        <button type="submit" class="btn btn-primary">Confirmar</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+}
+
